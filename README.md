@@ -1,5 +1,14 @@
 ## chào bạn hihi hehe 👋
-
+<title>SỨC KHOẺ CỘNG ĐỒNG</title>
+<style>
+    body {
+        background-color: #f0f8ff; /* Màu nền sáng */
+        color: #333; /* Màu chữ tối */
+    }
+    h1 {
+        color: #2e8b57; /* Màu tiêu đề */
+    }
+</style>
 <!--
 **bichphuong-coder/bichphuong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
