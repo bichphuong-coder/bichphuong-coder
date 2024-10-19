@@ -1,4 +1,4 @@
-## Hi there 👋
+## chào bạn hihi hehe 👋
 
 <!--
 **bichphuong-coder/bichphuong-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
