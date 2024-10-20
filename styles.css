@@ -16,10 +16,7 @@ header {
 }
 h1 {
   color: #FF5733; /* Thay đổi màu chữ ở đây, ví dụ màu đỏ cam */
-  h1 {
-  color: #FF5733; /* Màu chữ */
-  font-size: 99px; /* Kích thước chữ, bạn có thể điều chỉnh số này */
-}
+  font-size: 72px; /* Kích thước chữ, bạn có thể điều chỉnh số này */
 }
 nav {
   background-color: #333;
